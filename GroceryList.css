@@ -1,0 +1,30 @@
+
+.main-header {
+    color: aqua;
+    text-align: center;
+}
+
+.secondary-border {
+    border: 2px solid black;
+    width: 30%;
+    background-color: beige;
+    padding: 2px;
+}
+
+.primary-section {
+    background-color: grey;
+    width: 20%;
+    display: inline-block;
+    padding: 20px
+}
+
+.image-border {
+    display: inline-block;
+    width: 20%;
+    margin-right: 10px;
+}
+
+img {
+    height: 130px;
+    padding: 20px;
+}
